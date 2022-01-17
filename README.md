@@ -57,9 +57,8 @@ Other things, that I learnt from to draw to vertical line after card-footer sect
 
 ## Acknowledgments
 
-I've been trying to put left side to .author div elemet but I could not via flex-box. I supposed it has to work but it is centered to card compenent.
+I've been trying to put the left side to .author div element but I could not via flex-box. I supposed it has to work but it is centered on the card component.
 
-Meanwile, I didn't add to media querries out of it works responsively correct likewise I expected. I believe works due to accommodate
-center of body. If you were look at, I would be appreciate. then you could give your advice.
+Meanwhile, I didn't add to media querries out of it works responsively correct likewise I expected. I believe works due to accommodating the center of the body. If you look at it. I would be appreciated. then you could give your advice.
 
-Last thing I would like to say, I will add hover state later.I haven't done yet.
+The last thing I would like to say, I will add a hover state later. I haven't done it yet.
