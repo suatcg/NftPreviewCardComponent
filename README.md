@@ -15,9 +15,8 @@ Users should be able to:
 ![Desktop Screen](./design/desktop.png)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- You can check to the component from live server.
+- Live Site URL: [Live Site](https://suatcg-nftcard.netlify.app/)
 
 ## My process
 
