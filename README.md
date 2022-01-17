@@ -1,17 +1,5 @@
-## Table of contents
-
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
 ## Overview
 
-!!!
 NFT preview card component project which is a challenge on [Frontend mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
 that was build my own perspective via UI designs, they initially gave out of projects.
 
@@ -76,7 +64,6 @@ Other things, that I learnt from to draw to vertical line after card-footer sect
 
 ## Acknowledgments
 
-!!!
 I've been trying to put left side to .author div elemet but I could not via flex-box. I supposed it has to work but it is centered to card compenent.
 
 Meanwile, I didn't add to media querries out of it works responsively correct likewise I expected. I believe works due to accommodate
