@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Screen](design/desktop.png)
+![Desktop Screen](./design/desktop.png)
 
 ### Links
 
@@ -58,7 +58,6 @@ Other things, that I learnt from to draw to vertical line after card-footer sect
 
 ## Author
 
-- Website - [Suat Can Geyik](https://www.your-site.com)
 - Frontend Mentor - [@suatcg](https://www.frontendmentor.io/profile/suatcg)
 - Twitter - [@suatcg](https://twitter.com/suatcg)
 
